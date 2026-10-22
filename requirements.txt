@@ -1,0 +1,6 @@
+pandas>=2.2,<3
+pyarrow>=17
+PyYAML>=6
+python-dateutil>=2.9
+matplotlib>=3.8
+streamlit>=1.35
